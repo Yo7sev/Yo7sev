@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yo7sev
-- 👀 I’m interested in learning cooding.
+- 👀 I’m interested in learning Python.
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on communties that assist beginers.
+- 💞️ I’m looking to collaborate in communities that assist beginers to learn coding.
 - 📫 How to reach me Yousefmoayad593@gmail.com.
 
 <!---
